@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/saron-hailemeskel/Leetcode-solutions/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/saron-hailemeskel/Leetcode-solutions/tree/master/0013-roman-to-integer) |
 | [2469-convert-the-temperature](https://github.com/saron-hailemeskel/Leetcode-solutions/tree/master/2469-convert-the-temperature) |
 ## Trie
