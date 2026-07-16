@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/saron-hailemeskel/Leetcode-solutions/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/saron-hailemeskel/Leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/saron-hailemeskel/Leetcode-solutions/tree/master/0027-remove-element) |
+| [0766-toeplitz-matrix](https://github.com/saron-hailemeskel/Leetcode-solutions/tree/master/0766-toeplitz-matrix) |
 | [2974-minimum-number-game](https://github.com/saron-hailemeskel/Leetcode-solutions/tree/master/2974-minimum-number-game) |
 ## Sorting
 |  |
@@ -72,4 +73,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2413-smallest-even-multiple](https://github.com/saron-hailemeskel/Leetcode-solutions/tree/master/2413-smallest-even-multiple) |
+## Matrix
+|  |
+| ------- |
+| [0766-toeplitz-matrix](https://github.com/saron-hailemeskel/Leetcode-solutions/tree/master/0766-toeplitz-matrix) |
 <!---LeetCode Topics End-->
