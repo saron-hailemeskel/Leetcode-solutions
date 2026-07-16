@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/saron-hailemeskel/Leetcode-solutions/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/saron-hailemeskel/Leetcode-solutions/tree/master/0013-roman-to-integer) |
+| [2413-smallest-even-multiple](https://github.com/saron-hailemeskel/Leetcode-solutions/tree/master/2413-smallest-even-multiple) |
 | [2469-convert-the-temperature](https://github.com/saron-hailemeskel/Leetcode-solutions/tree/master/2469-convert-the-temperature) |
 ## Trie
 |  |
@@ -67,4 +68,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/saron-hailemeskel/Leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/saron-hailemeskel/Leetcode-solutions/tree/master/0027-remove-element) |
+## Number Theory
+|  |
+| ------- |
+| [2413-smallest-even-multiple](https://github.com/saron-hailemeskel/Leetcode-solutions/tree/master/2413-smallest-even-multiple) |
 <!---LeetCode Topics End-->
