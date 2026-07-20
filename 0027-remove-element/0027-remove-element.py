@@ -1,6 +1,6 @@
 class Solution(object):
     def removeElement(self, nums, val):
-        k = 0  # position for next valid element
+        k = 0
 
         for i in range(len(nums)):
             if nums[i] != val:
