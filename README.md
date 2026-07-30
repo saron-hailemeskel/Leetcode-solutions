@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/saron-hailemeskel/Leetcode-solutions/tree/master/0013-roman-to-integer) |
 | [0387-first-unique-character-in-a-string](https://github.com/saron-hailemeskel/Leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [1122-relative-sort-array](https://github.com/saron-hailemeskel/Leetcode-solutions/tree/master/1122-relative-sort-array) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/saron-hailemeskel/Leetcode-solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [2418-sort-the-people](https://github.com/saron-hailemeskel/Leetcode-solutions/tree/master/2418-sort-the-people) |
 ## String
 |  |
@@ -32,12 +33,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/saron-hailemeskel/Leetcode-solutions/tree/master/0027-remove-element) |
 | [0766-toeplitz-matrix](https://github.com/saron-hailemeskel/Leetcode-solutions/tree/master/0766-toeplitz-matrix) |
 | [1122-relative-sort-array](https://github.com/saron-hailemeskel/Leetcode-solutions/tree/master/1122-relative-sort-array) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/saron-hailemeskel/Leetcode-solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [2418-sort-the-people](https://github.com/saron-hailemeskel/Leetcode-solutions/tree/master/2418-sort-the-people) |
 | [2974-minimum-number-game](https://github.com/saron-hailemeskel/Leetcode-solutions/tree/master/2974-minimum-number-game) |
 ## Sorting
 |  |
 | ------- |
 | [1122-relative-sort-array](https://github.com/saron-hailemeskel/Leetcode-solutions/tree/master/1122-relative-sort-array) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/saron-hailemeskel/Leetcode-solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [2418-sort-the-people](https://github.com/saron-hailemeskel/Leetcode-solutions/tree/master/2418-sort-the-people) |
 | [2974-minimum-number-game](https://github.com/saron-hailemeskel/Leetcode-solutions/tree/master/2974-minimum-number-game) |
 ## Heap (Priority Queue)
@@ -88,4 +91,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1122-relative-sort-array](https://github.com/saron-hailemeskel/Leetcode-solutions/tree/master/1122-relative-sort-array) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/saron-hailemeskel/Leetcode-solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 <!---LeetCode Topics End-->
