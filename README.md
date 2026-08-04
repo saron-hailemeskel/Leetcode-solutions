@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/saron-hailemeskel/Leetcode-solutions/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/saron-hailemeskel/Leetcode-solutions/tree/master/0075-sort-colors) |
 | [0283-move-zeroes](https://github.com/saron-hailemeskel/Leetcode-solutions/tree/master/0283-move-zeroes) |
+| [0435-non-overlapping-intervals](https://github.com/saron-hailemeskel/Leetcode-solutions/tree/master/0435-non-overlapping-intervals) |
 | [0766-toeplitz-matrix](https://github.com/saron-hailemeskel/Leetcode-solutions/tree/master/0766-toeplitz-matrix) |
 | [0977-squares-of-a-sorted-array](https://github.com/saron-hailemeskel/Leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1122-relative-sort-array](https://github.com/saron-hailemeskel/Leetcode-solutions/tree/master/1122-relative-sort-array) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0056-merge-intervals](https://github.com/saron-hailemeskel/Leetcode-solutions/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/saron-hailemeskel/Leetcode-solutions/tree/master/0075-sort-colors) |
+| [0435-non-overlapping-intervals](https://github.com/saron-hailemeskel/Leetcode-solutions/tree/master/0435-non-overlapping-intervals) |
 | [0977-squares-of-a-sorted-array](https://github.com/saron-hailemeskel/Leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1122-relative-sort-array](https://github.com/saron-hailemeskel/Leetcode-solutions/tree/master/1122-relative-sort-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/saron-hailemeskel/Leetcode-solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -121,9 +123,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/saron-hailemeskel/Leetcode-solutions/tree/master/0011-container-with-most-water) |
+| [0435-non-overlapping-intervals](https://github.com/saron-hailemeskel/Leetcode-solutions/tree/master/0435-non-overlapping-intervals) |
 | [0763-partition-labels](https://github.com/saron-hailemeskel/Leetcode-solutions/tree/master/0763-partition-labels) |
 ## Quicksort
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/saron-hailemeskel/Leetcode-solutions/tree/master/0056-merge-intervals) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0435-non-overlapping-intervals](https://github.com/saron-hailemeskel/Leetcode-solutions/tree/master/0435-non-overlapping-intervals) |
 <!---LeetCode Topics End-->
