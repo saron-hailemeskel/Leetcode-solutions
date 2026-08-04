@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/saron-hailemeskel/Leetcode-solutions/tree/master/0075-sort-colors) |
 | [0283-move-zeroes](https://github.com/saron-hailemeskel/Leetcode-solutions/tree/master/0283-move-zeroes) |
 | [0435-non-overlapping-intervals](https://github.com/saron-hailemeskel/Leetcode-solutions/tree/master/0435-non-overlapping-intervals) |
+| [0455-assign-cookies](https://github.com/saron-hailemeskel/Leetcode-solutions/tree/master/0455-assign-cookies) |
 | [0766-toeplitz-matrix](https://github.com/saron-hailemeskel/Leetcode-solutions/tree/master/0766-toeplitz-matrix) |
 | [0977-squares-of-a-sorted-array](https://github.com/saron-hailemeskel/Leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1122-relative-sort-array](https://github.com/saron-hailemeskel/Leetcode-solutions/tree/master/1122-relative-sort-array) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/saron-hailemeskel/Leetcode-solutions/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/saron-hailemeskel/Leetcode-solutions/tree/master/0075-sort-colors) |
 | [0435-non-overlapping-intervals](https://github.com/saron-hailemeskel/Leetcode-solutions/tree/master/0435-non-overlapping-intervals) |
+| [0455-assign-cookies](https://github.com/saron-hailemeskel/Leetcode-solutions/tree/master/0455-assign-cookies) |
 | [0977-squares-of-a-sorted-array](https://github.com/saron-hailemeskel/Leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1122-relative-sort-array](https://github.com/saron-hailemeskel/Leetcode-solutions/tree/master/1122-relative-sort-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/saron-hailemeskel/Leetcode-solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -100,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/saron-hailemeskel/Leetcode-solutions/tree/master/0027-remove-element) |
 | [0075-sort-colors](https://github.com/saron-hailemeskel/Leetcode-solutions/tree/master/0075-sort-colors) |
 | [0283-move-zeroes](https://github.com/saron-hailemeskel/Leetcode-solutions/tree/master/0283-move-zeroes) |
+| [0455-assign-cookies](https://github.com/saron-hailemeskel/Leetcode-solutions/tree/master/0455-assign-cookies) |
 | [0763-partition-labels](https://github.com/saron-hailemeskel/Leetcode-solutions/tree/master/0763-partition-labels) |
 | [0977-squares-of-a-sorted-array](https://github.com/saron-hailemeskel/Leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
 ## Number Theory
@@ -124,11 +127,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/saron-hailemeskel/Leetcode-solutions/tree/master/0011-container-with-most-water) |
 | [0435-non-overlapping-intervals](https://github.com/saron-hailemeskel/Leetcode-solutions/tree/master/0435-non-overlapping-intervals) |
+| [0455-assign-cookies](https://github.com/saron-hailemeskel/Leetcode-solutions/tree/master/0455-assign-cookies) |
 | [0763-partition-labels](https://github.com/saron-hailemeskel/Leetcode-solutions/tree/master/0763-partition-labels) |
 ## Quicksort
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/saron-hailemeskel/Leetcode-solutions/tree/master/0056-merge-intervals) |
+| [0455-assign-cookies](https://github.com/saron-hailemeskel/Leetcode-solutions/tree/master/0455-assign-cookies) |
 ## Dynamic Programming
 |  |
 | ------- |
