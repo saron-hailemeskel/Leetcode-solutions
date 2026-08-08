@@ -8,7 +8,7 @@ class Solution:
             if  nums[i] !=0:
                 nums[z], nums[i]= nums[i], nums[z]
                 z+=1
-                i+=1
+              
             
         return nums
         
