@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/saron-hailemeskel/Leetcode-solutions/tree/master/0283-move-zeroes) |
 | [0435-non-overlapping-intervals](https://github.com/saron-hailemeskel/Leetcode-solutions/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/saron-hailemeskel/Leetcode-solutions/tree/master/0455-assign-cookies) |
+| [0643-maximum-average-subarray-i](https://github.com/saron-hailemeskel/Leetcode-solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0766-toeplitz-matrix](https://github.com/saron-hailemeskel/Leetcode-solutions/tree/master/0766-toeplitz-matrix) |
 | [0977-squares-of-a-sorted-array](https://github.com/saron-hailemeskel/Leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1051-height-checker](https://github.com/saron-hailemeskel/Leetcode-solutions/tree/master/1051-height-checker) |
@@ -158,4 +159,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1051-height-checker](https://github.com/saron-hailemeskel/Leetcode-solutions/tree/master/1051-height-checker) |
+## Sliding Window
+|  |
+| ------- |
+| [0643-maximum-average-subarray-i](https://github.com/saron-hailemeskel/Leetcode-solutions/tree/master/0643-maximum-average-subarray-i) |
 <!---LeetCode Topics End-->
