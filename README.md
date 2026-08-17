@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-rank-transform-of-an-array](https://github.com/saron-hailemeskel/Leetcode-solutions/tree/master/1331-rank-transform-of-an-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/saron-hailemeskel/Leetcode-solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [2418-sort-the-people](https://github.com/saron-hailemeskel/Leetcode-solutions/tree/master/2418-sort-the-people) |
+| [2570-merge-two-2d-arrays-by-summing-values](https://github.com/saron-hailemeskel/Leetcode-solutions/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
 ## String
 |  |
 | ------- |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/saron-hailemeskel/Leetcode-solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/saron-hailemeskel/Leetcode-solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2418-sort-the-people](https://github.com/saron-hailemeskel/Leetcode-solutions/tree/master/2418-sort-the-people) |
+| [2570-merge-two-2d-arrays-by-summing-values](https://github.com/saron-hailemeskel/Leetcode-solutions/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
 | [2942-find-words-containing-character](https://github.com/saron-hailemeskel/Leetcode-solutions/tree/master/2942-find-words-containing-character) |
 | [2974-minimum-number-game](https://github.com/saron-hailemeskel/Leetcode-solutions/tree/master/2974-minimum-number-game) |
 ## Sorting
@@ -133,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0680-valid-palindrome-ii](https://github.com/saron-hailemeskel/Leetcode-solutions/tree/master/0680-valid-palindrome-ii) |
 | [0763-partition-labels](https://github.com/saron-hailemeskel/Leetcode-solutions/tree/master/0763-partition-labels) |
 | [0977-squares-of-a-sorted-array](https://github.com/saron-hailemeskel/Leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
+| [2570-merge-two-2d-arrays-by-summing-values](https://github.com/saron-hailemeskel/Leetcode-solutions/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
 ## Number Theory
 |  |
 | ------- |
