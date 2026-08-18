@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0438-find-all-anagrams-in-a-string](https://github.com/saron-hailemeskel/Leetcode-solutions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0680-valid-palindrome-ii](https://github.com/saron-hailemeskel/Leetcode-solutions/tree/master/0680-valid-palindrome-ii) |
 | [0763-partition-labels](https://github.com/saron-hailemeskel/Leetcode-solutions/tree/master/0763-partition-labels) |
+| [0844-backspace-string-compare](https://github.com/saron-hailemeskel/Leetcode-solutions/tree/master/0844-backspace-string-compare) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/saron-hailemeskel/Leetcode-solutions/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/saron-hailemeskel/Leetcode-solutions/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2418-sort-the-people](https://github.com/saron-hailemeskel/Leetcode-solutions/tree/master/2418-sort-the-people) |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0844-backspace-string-compare](https://github.com/saron-hailemeskel/Leetcode-solutions/tree/master/0844-backspace-string-compare) |
 | [2974-minimum-number-game](https://github.com/saron-hailemeskel/Leetcode-solutions/tree/master/2974-minimum-number-game) |
 ## Math
 |  |
@@ -116,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/saron-hailemeskel/Leetcode-solutions/tree/master/0020-valid-parentheses) |
+| [0844-backspace-string-compare](https://github.com/saron-hailemeskel/Leetcode-solutions/tree/master/0844-backspace-string-compare) |
 ## Linked List
 |  |
 | ------- |
@@ -140,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/saron-hailemeskel/Leetcode-solutions/tree/master/0455-assign-cookies) |
 | [0680-valid-palindrome-ii](https://github.com/saron-hailemeskel/Leetcode-solutions/tree/master/0680-valid-palindrome-ii) |
 | [0763-partition-labels](https://github.com/saron-hailemeskel/Leetcode-solutions/tree/master/0763-partition-labels) |
+| [0844-backspace-string-compare](https://github.com/saron-hailemeskel/Leetcode-solutions/tree/master/0844-backspace-string-compare) |
 | [0905-sort-array-by-parity](https://github.com/saron-hailemeskel/Leetcode-solutions/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/saron-hailemeskel/Leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/saron-hailemeskel/Leetcode-solutions/tree/master/2108-find-first-palindromic-string-in-the-array) |
