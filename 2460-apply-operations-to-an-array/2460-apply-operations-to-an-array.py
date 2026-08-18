@@ -7,15 +7,9 @@ class Solution:
                 nums[i] *= 2
                 nums[j] = 0
             j += 1
-        j = 0
-
+        z=0
         for i in range(len(nums)):
-            if nums[i] != 0:
-                nums[j] = nums[i]
-                j += 1
-
-        while j < len(nums):
-            nums[j] = 0
-            j += 1
-
+            if  nums[i] !=0:
+                nums[z], nums[i]= nums[i], nums[z]
+                z+=1  
         return nums
