@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/saron-hailemeskel/Leetcode-solutions/tree/master/0485-max-consecutive-ones) |
 | [0643-maximum-average-subarray-i](https://github.com/saron-hailemeskel/Leetcode-solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0766-toeplitz-matrix](https://github.com/saron-hailemeskel/Leetcode-solutions/tree/master/0766-toeplitz-matrix) |
+| [0905-sort-array-by-parity](https://github.com/saron-hailemeskel/Leetcode-solutions/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/saron-hailemeskel/Leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1051-height-checker](https://github.com/saron-hailemeskel/Leetcode-solutions/tree/master/1051-height-checker) |
 | [1122-relative-sort-array](https://github.com/saron-hailemeskel/Leetcode-solutions/tree/master/1122-relative-sort-array) |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/saron-hailemeskel/Leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0435-non-overlapping-intervals](https://github.com/saron-hailemeskel/Leetcode-solutions/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/saron-hailemeskel/Leetcode-solutions/tree/master/0455-assign-cookies) |
+| [0905-sort-array-by-parity](https://github.com/saron-hailemeskel/Leetcode-solutions/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/saron-hailemeskel/Leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1051-height-checker](https://github.com/saron-hailemeskel/Leetcode-solutions/tree/master/1051-height-checker) |
 | [1122-relative-sort-array](https://github.com/saron-hailemeskel/Leetcode-solutions/tree/master/1122-relative-sort-array) |
@@ -138,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/saron-hailemeskel/Leetcode-solutions/tree/master/0455-assign-cookies) |
 | [0680-valid-palindrome-ii](https://github.com/saron-hailemeskel/Leetcode-solutions/tree/master/0680-valid-palindrome-ii) |
 | [0763-partition-labels](https://github.com/saron-hailemeskel/Leetcode-solutions/tree/master/0763-partition-labels) |
+| [0905-sort-array-by-parity](https://github.com/saron-hailemeskel/Leetcode-solutions/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/saron-hailemeskel/Leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/saron-hailemeskel/Leetcode-solutions/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/saron-hailemeskel/Leetcode-solutions/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
