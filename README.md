@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2089-find-target-indices-after-sorting-array](https://github.com/saron-hailemeskel/Leetcode-solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/saron-hailemeskel/Leetcode-solutions/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2418-sort-the-people](https://github.com/saron-hailemeskel/Leetcode-solutions/tree/master/2418-sort-the-people) |
+| [2460-apply-operations-to-an-array](https://github.com/saron-hailemeskel/Leetcode-solutions/tree/master/2460-apply-operations-to-an-array) |
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/saron-hailemeskel/Leetcode-solutions/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
 | [2942-find-words-containing-character](https://github.com/saron-hailemeskel/Leetcode-solutions/tree/master/2942-find-words-containing-character) |
 | [2974-minimum-number-game](https://github.com/saron-hailemeskel/Leetcode-solutions/tree/master/2974-minimum-number-game) |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0844-backspace-string-compare](https://github.com/saron-hailemeskel/Leetcode-solutions/tree/master/0844-backspace-string-compare) |
+| [2460-apply-operations-to-an-array](https://github.com/saron-hailemeskel/Leetcode-solutions/tree/master/2460-apply-operations-to-an-array) |
 | [2974-minimum-number-game](https://github.com/saron-hailemeskel/Leetcode-solutions/tree/master/2974-minimum-number-game) |
 ## Math
 |  |
@@ -149,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0905-sort-array-by-parity](https://github.com/saron-hailemeskel/Leetcode-solutions/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/saron-hailemeskel/Leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/saron-hailemeskel/Leetcode-solutions/tree/master/2108-find-first-palindromic-string-in-the-array) |
+| [2460-apply-operations-to-an-array](https://github.com/saron-hailemeskel/Leetcode-solutions/tree/master/2460-apply-operations-to-an-array) |
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/saron-hailemeskel/Leetcode-solutions/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
 ## Number Theory
 |  |
