@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0680-valid-palindrome-ii](https://github.com/saron-hailemeskel/Leetcode-solutions/tree/master/0680-valid-palindrome-ii) |
 | [0763-partition-labels](https://github.com/saron-hailemeskel/Leetcode-solutions/tree/master/0763-partition-labels) |
 | [0844-backspace-string-compare](https://github.com/saron-hailemeskel/Leetcode-solutions/tree/master/0844-backspace-string-compare) |
+| [1309-decrypt-string-from-alphabet-to-integer-mapping](https://github.com/saron-hailemeskel/Leetcode-solutions/tree/master/1309-decrypt-string-from-alphabet-to-integer-mapping) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/saron-hailemeskel/Leetcode-solutions/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/saron-hailemeskel/Leetcode-solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/saron-hailemeskel/Leetcode-solutions/tree/master/2108-find-first-palindromic-string-in-the-array) |
