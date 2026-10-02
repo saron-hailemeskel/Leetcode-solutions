@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/saron-hailemeskel/Leetcode-solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/saron-hailemeskel/Leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/saron-hailemeskel/Leetcode-solutions/tree/master/0242-valid-anagram) |
+| [0349-intersection-of-two-arrays](https://github.com/saron-hailemeskel/Leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0387-first-unique-character-in-a-string](https://github.com/saron-hailemeskel/Leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/saron-hailemeskel/Leetcode-solutions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0763-partition-labels](https://github.com/saron-hailemeskel/Leetcode-solutions/tree/master/0763-partition-labels) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/saron-hailemeskel/Leetcode-solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/saron-hailemeskel/Leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/saron-hailemeskel/Leetcode-solutions/tree/master/0283-move-zeroes) |
+| [0349-intersection-of-two-arrays](https://github.com/saron-hailemeskel/Leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0435-non-overlapping-intervals](https://github.com/saron-hailemeskel/Leetcode-solutions/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/saron-hailemeskel/Leetcode-solutions/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/saron-hailemeskel/Leetcode-solutions/tree/master/0485-max-consecutive-ones) |
@@ -113,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/saron-hailemeskel/Leetcode-solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/saron-hailemeskel/Leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/saron-hailemeskel/Leetcode-solutions/tree/master/0242-valid-anagram) |
+| [0349-intersection-of-two-arrays](https://github.com/saron-hailemeskel/Leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0435-non-overlapping-intervals](https://github.com/saron-hailemeskel/Leetcode-solutions/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/saron-hailemeskel/Leetcode-solutions/tree/master/0455-assign-cookies) |
 | [0905-sort-array-by-parity](https://github.com/saron-hailemeskel/Leetcode-solutions/tree/master/0905-sort-array-by-parity) |
@@ -193,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/saron-hailemeskel/Leetcode-solutions/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/saron-hailemeskel/Leetcode-solutions/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/saron-hailemeskel/Leetcode-solutions/tree/master/0345-reverse-vowels-of-a-string) |
+| [0349-intersection-of-two-arrays](https://github.com/saron-hailemeskel/Leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0455-assign-cookies](https://github.com/saron-hailemeskel/Leetcode-solutions/tree/master/0455-assign-cookies) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/saron-hailemeskel/Leetcode-solutions/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0680-valid-palindrome-ii](https://github.com/saron-hailemeskel/Leetcode-solutions/tree/master/0680-valid-palindrome-ii) |
@@ -222,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/saron-hailemeskel/Leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0349-intersection-of-two-arrays](https://github.com/saron-hailemeskel/Leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/saron-hailemeskel/Leetcode-solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Greedy
 |  |
