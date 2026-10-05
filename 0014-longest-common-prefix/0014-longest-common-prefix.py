@@ -1,15 +1,22 @@
 class Solution:
     def longestCommonPrefix(self, strs: List[str]) -> str:
-        if not strs:
-            return ""
-        
-        strs.sort()
-        
-        first = strs[0]
-        last = strs[-1]
-        
-        i = 0
-        while i < len(first) and i < len(last) and first[i] == last[i]:
-            i += 1
-        
-        return first[:i]
+       
+        result = ""
+
+        # Go through each character position
+        for i in range(len(strs[0])):
+
+            # Take the character from the first string
+            current = strs[0][i]
+
+            # Check that position in every other string
+            for word in strs:
+
+                # If the word is too short OR the character is different
+                if i >= len(word) or word[i] != current:
+                    return result
+
+            # If every word had the same character
+            result += current
+
+        return result
