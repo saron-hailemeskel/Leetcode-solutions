@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/saron-hailemeskel/Leetcode-solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0049-group-anagrams](https://github.com/saron-hailemeskel/Leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/saron-hailemeskel/Leetcode-solutions/tree/master/0058-length-of-last-word) |
+| [0091-decode-ways](https://github.com/saron-hailemeskel/Leetcode-solutions/tree/master/0091-decode-ways) |
 | [0125-valid-palindrome](https://github.com/saron-hailemeskel/Leetcode-solutions/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/saron-hailemeskel/Leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/saron-hailemeskel/Leetcode-solutions/tree/master/0344-reverse-string) |
@@ -246,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0091-decode-ways](https://github.com/saron-hailemeskel/Leetcode-solutions/tree/master/0091-decode-ways) |
 | [0118-pascals-triangle](https://github.com/saron-hailemeskel/Leetcode-solutions/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/saron-hailemeskel/Leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0435-non-overlapping-intervals](https://github.com/saron-hailemeskel/Leetcode-solutions/tree/master/0435-non-overlapping-intervals) |
